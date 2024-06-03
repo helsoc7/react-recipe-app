@@ -1,0 +1,210 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Spaghetti Carbonara",
+            "ingredients": [
+                "400g Spaghetti",
+                "200g Pancetta",
+                "4 große Eier",
+                "100g geriebener Parmesan",
+                "Schwarzer Pfeffer",
+                "Salz"
+            ],
+            "steps": [
+                "Pasta nach Packungsanweisung in Salzwasser kochen.",
+                "Pancetta in einer Pfanne knusprig braten.",
+                "Eier und Parmesan in einer Schüssel mischen.",
+                "Gekochte Pasta mit der Pancetta, der Eier-Käse-Mischung vermengen und schnell umrühren.",
+                "Mit Salz und reichlich frisch gemahlenem schwarzen Pfeffer abschmecken."
+            ],
+            "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8U3BhZ2hldHRpJTIwQ2FyYm9uYXJhfGVufDB8fDB8fHww"
+        },
+        {
+            "id": 2,
+            "name": "Caesar Salad",
+            "ingredients": [
+                "1 Kopf Römersalat",
+                "2 Scheiben Weißbrot",
+                "50g Parmesan",
+                "1/2 Tasse Caesar Dressing",
+                "100g Hähnchenbrust",
+                "1 Teelöffel Olivenöl"
+            ],
+            "steps": [
+                "Salat waschen, trocknen und in große Stücke zupfen.",
+                "Hähnchenbrust kochen und in dünne Scheiben schneiden.",
+                "Weißbrot in Würfel schneiden und in einer Pfanne mit Olivenöl rösten.",
+                "Alle Zutaten in einer großen Schüssel mit Caesar Dressing vermischen.",
+                "Mit frisch geriebenem Parmesan bestreuen."
+            ],
+            "image": "https://images.unsplash.com/photo-1574926054530-540288c8e678?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 3,
+            "name": "Pancakes",
+            "ingredients": [
+                "200g Mehl",
+                "2 Teelöffel Backpulver",
+                "1/4 Teelöffel Salz",
+                "1 Esslöffel Zucker",
+                "300ml Milch",
+                "1 großes Ei",
+                "Butter zum Braten"
+            ],
+            "steps": [
+                "Mehl, Backpulver, Salz und Zucker in einer Schüssel mischen.",
+                "Milch und Ei dazugeben und zu einem glatten Teig verrühren.",
+                "Eine Pfanne erhitzen und etwas Butter darin schmelzen.",
+                "Teig portionsweise in die Pfanne geben und Pancakes von beiden Seiten goldbraun braten."
+            ],
+            "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFuY2FrZXN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 7,
+            "name": "Rindergulasch",
+            "ingredients": [
+                "500g Rindfleisch, in Würfel geschnitten",
+                "2 EL Butter",
+                "1 große Zwiebel, gehackt",
+                "2 Knoblauchzehen, gehackt",
+                "1 EL Paprikapulver",
+                "400g gehackte Tomaten",
+                "250ml Rinderbrühe"
+            ],
+            "steps": [
+                "Butter in einem Topf erhitzen und das Rindfleisch rundherum anbraten.",
+                "Zwiebel und Knoblauch hinzufügen und weich dünsten.",
+                "Paprikapulver, Tomaten und Brühe hinzufügen, zum Kochen bringen und auf niedriger Hitze 2 Stunden köcheln lassen.",
+                "Mit Salz und Pfeffer abschmecken und servieren."
+            ],
+            "image": "https://images.unsplash.com/photo-1714596598471-aa2dfd029e2b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 8,
+            "name": "Vegane Linsensuppe",
+            "ingredients": [
+                "200g rote Linsen",
+                "1 Liter Gemüsebrühe",
+                "1 Karotte, gewürfelt",
+                "1 Kartoffel, gewürfelt",
+                "1 Zwiebel, gewürfelt",
+                "2 EL Olivenöl",
+                "1 TL Kreuzkümmel"
+            ],
+            "steps": [
+                "Olivenöl in einem Topf erhitzen und die Zwiebel glasig dünsten.",
+                "Karotte und Kartoffel hinzufügen und kurz mitdünsten.",
+                "Linsen, Kreuzkümmel und Gemüsebrühe hinzufügen, zum Kochen bringen und bei mittlerer Hitze 20 Minuten köcheln lassen.",
+                "Mit einem Pürierstab leicht pürieren, mit Salz und Pfeffer abschmecken und servieren."
+            ],
+            "image": "https://images.unsplash.com/photo-1591266798549-32fa7cd32f45?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fExpbnNlbnN1cHBlfGVufDB8fDB8fHww"
+        },
+        {
+            "id": 9,
+            "name": "Apfelkuchen",
+            "ingredients": [
+                "250g Mehl",
+                "125g Butter",
+                "100g Zucker",
+                "1 Ei",
+                "4 Äpfel",
+                "1 TL Zimt",
+                "1 Prise Salz"
+            ],
+            "steps": [
+                "Mehl, Butter, Zucker, Salz und Ei zu einem Teig kneten und 30 Minuten kühlen.",
+                "Äpfel schälen und in dünne Scheiben schneiden.",
+                "Teig in eine gefettete Kuchenform geben, Äpfel darauflegen und mit Zimt bestreuen.",
+                "Bei 180°C 45 Minuten backen."
+            ],
+            "image": "https://images.unsplash.com/photo-1624299831638-82c15fcafd2b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QXBmZWxrdWNoZW58ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 10,
+            "name": "Tomaten-Basilikum-Spaghetti",
+            "ingredients": [
+                "400g Spaghetti",
+                "3 EL Olivenöl",
+                "2 Knoblauchzehen, gehackt",
+                "400g Kirschtomaten, halbiert",
+                "Frisches Basilikum",
+                "Salz",
+                "Pfeffer"
+            ],
+            "steps": [
+                "Spaghetti nach Packungsanweisung kochen.",
+                "In einer Pfanne Olivenöl erhitzen und den Knoblauch darin anbraten.",
+                "Tomaten hinzufügen und köcheln lassen, bis sie weich werden.",
+                "Gekochte Spaghetti und Basilikum unter die Tomatensauce mischen.",
+                "Mit Salz und Pfeffer abschmecken und servieren."
+            ],
+            "image": "https://images.unsplash.com/photo-1498579150354-977475b7ea0b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8VG9tYXRlbiUyMEJhc2lsaWt1bSUyMFNwYWdoZXR0aXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 11,
+            "name": "Gefüllte Paprika",
+            "ingredients": [
+                "4 große Paprika",
+                "300g Hackfleisch",
+                "1 Zwiebel, gewürfelt",
+                "2 Knoblauchzehen, gehackt",
+                "200g Reis",
+                "400g Tomatensauce",
+                "100g geriebener Käse",
+                "Salz",
+                "Pfeffer"
+            ],
+            "steps": [
+                "Paprika oben abschneiden und entkernen.",
+                "Reis kochen und beiseite stellen.",
+                "In einer Pfanne Hackfleisch, Zwiebel und Knoblauch anbraten.",
+                "Gekochten Reis und Tomatensauce unterrühren, mit Salz und Pfeffer würzen.",
+                "Die Mischung in die Paprika füllen, mit Käse bestreuen und bei 180°C 30 Minuten backen."
+            ],
+            "image": "https://images.unsplash.com/photo-1596464716059-f81da526557b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z2VmJUMzJUJDbGx0ZSUyMHBhcHJpa2F8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 12,
+            "name": "Schokoladenkuchen",
+            "ingredients": [
+                "200g dunkle Schokolade",
+                "200g Butter",
+                "250g Zucker",
+                "5 Eier",
+                "1 TL Vanilleextrakt",
+                "100g Mehl"
+            ],
+            "steps": [
+                "Schokolade und Butter schmelzen und glatt rühren.",
+                "Zucker, Vanille und Eier schaumig schlagen und die Schokoladenmischung unterheben.",
+                "Mehl sieben und unterheben.",
+                "In eine gefettete Backform füllen und bei 175°C 40 Minuten backen."
+            ],
+            "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2Nob2tvbGFkZW5rdWNoZW58ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 13,
+            "name": "Kürbissuppe",
+            "ingredients": [
+                "1 kleiner Hokkaidokürbis",
+                "1 Zwiebel, gewürfelt",
+                "2 Knoblauchzehen, gehackt",
+                "1 Liter Gemüsebrühe",
+                "200ml Sahne",
+                "2 EL Olivenöl",
+                "Salz",
+                "Pfeffer",
+                "Kürbiskerne"
+            ],
+            "steps": [
+                "Kürbis schälen, entkernen und würfeln.",
+                "Zwiebel und Knoblauch in Olivenöl anbraten, Kürbiswürfel hinzufügen und kurz mitdünsten.",
+                "Mit Brühe auffüllen und 20 Minuten köcheln lassen.",
+                "Suppe pürieren, Sahne einrühren und mit Salz und Pfeffer abschmecken.",
+                "Mit gerösteten Kürbiskernen servieren."
+            ],
+            "image": "https://images.unsplash.com/photo-1573630490626-24859ba0f58a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SyVDMyVCQ3JiaXNzdXBwZXxlbnwwfHwwfHx8MA%3D%3D"
+        }
+    ]
+}
